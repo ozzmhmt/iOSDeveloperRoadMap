@@ -11,7 +11,7 @@ iOS geliştiricisi olmak isteyen herkes içindir…
 
 ## Diagram Versiyonu 
 
-![Header image](RoadMap/RoadmapDiagram.png)
+![Header image](RoadMap/RoadMapDiagram.png)
 
 ## 📝 Metin Hali
 [Daha kapsamlı Metin hali...](RoadMap/RoadMap.md)
