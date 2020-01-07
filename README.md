@@ -5,9 +5,9 @@
 RoadMap, başarılı bir geliştiricinin temel yetkinlikleridir genel çerçevede. iOS Platformunu tam olarak anlamak, temel metadolojisini kavramak isteyen tüm geliştricilerin bilmesi gereken bir yol haritasıdır. 
 
 ## Kimler İçin?
-[]Uzman bir iOS geliştiricisi olmak isteyenler,
-[]Mülakatlara hazırlananlar ve
-[]iOS geliştiricisi olmak isteyen herkes içindir…
+[] Uzman bir iOS geliştiricisi olmak isteyenler,
+[] Mülakatlara hazırlananlar ve
+[] iOS geliştiricisi olmak isteyen herkes içindir…
 
 ## Diagram Versiyonu 
 
